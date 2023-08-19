@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-size: cover;
+    width: 100%;
+    height: 650px;
+   background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(pexels-henry-&-co-2886054.jpg);
+}
+.main1{
+    float: left;
+    width: 50%;
+    height: 650px;
+    
+}
+h4{
+    font-size: 40px;
+    margin-left: 50px;
+    margin-top: 250px;
+    color: orange;
+}
+P{
+    color: white;
+    margin-left: 60PX;
+}
+.NEXTPAGE{
+    background-color: rgb(171, 171, 13);
+    color: white;
+    float: left;
+    margin-left: 80px;
+    padding-left: 35px;
+    padding-top: 10px;
+    font-size: 15PX;
+    
+    width: 150PX;
+    height: 30px;
+}
+
+.about{
+    padding-left: 35px;
+    padding-top: 10px;
+    color: white;
+    float: left;
+    margin-left: 50px;
+    font-size: 20PX;
+    border: 1PX solid white;
+    width: 150PX;
+    height: 30px;
+}
+.about:hover{
+    color:black;
+    background-color: white;
+
+}
+.main2{
+    float: left;
+    width: 50%;
+    height: 650px;
+   
+}
+
+/* this is the second section  */
+.second{
+    width: 100%;
+    height: 500px;
+}
+.second1{
+    float: left;
+    width: 50%;
+    height: 500px;
+   
+}
+.second1 h5{
+    font-size: 20px;
+    color: orange;
+    margin-left: 140px;
+    margin-top: 100px;
+}
+hr{
+    margin-left: 20%;
+    margin-right: 70%;
+    height: 2px;
+    background-color:orange;
+}
+i{
+    font-size: 25px;
+    margin-left: 20%;
+}
+.second1 h1{
+    font-size: 30px;
+    margin-left: 140px;
+}
+.second2{
+    margin-top: 50px;
+    float: left;
+    width: 50%;
+    height: 500px;
+   
+}
+.second2 p{
+    padding-right: 100px;
+    font-size: 20px;
+    color: black;
+}
+button{
+    border-radius: 8%;
+    margin-left: 60px;
+    font-size: 15px;
+    color: white;
+    width: 150PX;
+    height: 40PX;
+    background-color: orange;
+}
+button:hover{
+    color: black;
+    background-color: yellow;
+}
+
+/*this is the third section   */
+
+.THIRD{
+    width: 100%;
+    background-color: aquamarine;
+    height: 300px;
+}
+.THIRD1{
+    background-size: cover;
+    background-image: url(pexels-henry-&-co-2886054.jpg);
+    width: 33%;
+    height: 300px;
+     
+    float: left;
+}
+
+.THIRD2{
+    width: 33%;
+    height: 300px;
+    background-image: url(a9f8bd8d-249c-41d8-b890-a78e8d09b7a8.jpg);
+    float: left;
+}
+
+.THIRD3{
+    background-size: cover;
+    background-image: url(pexels-henry-&-co-2886054.jpg);
+    width: 33%;
+    height: 300px;
+   
+    float: left;
+}
+h3{
+    font-size: 20px;
+    color: white;
+    margin-top: 180px;
+}
